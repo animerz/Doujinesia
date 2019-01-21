@@ -92,3 +92,20 @@ ex:&nbsp;<span style="color: blue;">https://mangadropout.com/collection/5610/the
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: left;">
+COMPRESS</div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+-cPanel</div>
+<blockquote class="tr_bq" style="text-align: left;">
+click folder output&gt; Compress &gt; Download</blockquote>
+<div style="text-align: left;">
+-Linux</div>
+<blockquote class="tr_bq" style="text-align: left;">
+<i><b>zip -r oneenee.zip oneenee</b></i></blockquote>
+PS: if your doujin file is too much, it may be blank for a moment, just input again and reload<br />
+<div style="text-align: center;">
+<br /></div>
